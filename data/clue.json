@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "case_id": "1",
+        "title": "person",
+        "description": "blah blah blah",
+        "source": "private",
+        "importance": "MEDIUM",
+        "status": "VERIFIED",
+        "notes": "available",
+        "created_at": "2026-08-15 20:15:29"
+    },
+    {
+        "id": "2",
+        "case_id": "1",
+        "title": "the blah",
+        "description": "bla bla",
+        "source": "local",
+        "importance": "HIGH",
+        "status": "INVESTIGATING",
+        "notes": "nothing",
+        "created_at": "2026-08-15 20:16:45"
+    }
+]

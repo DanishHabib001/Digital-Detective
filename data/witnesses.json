@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "case_id": "1",
+        "name": "Danish",
+        "age": 23,
+        "gender": "male",
+        "contact": "0037437985",
+        "address": "abc street",
+        "statement": "look the killer on the spot",
+        "credibility": "MEDIUM",
+        "notes": "no",
+        "created_at": "2026-08-15 21:38:31"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "case_id": "1",
+        "type": "PHYSICAL",
+        "description": "blah blah blah",
+        "location_found": "7th road",
+        "collected_by": "inpector Ali",
+        "collected_at": "2026-08-14 20:18:59",
+        "chain_of_custody": "collected by officer and lock at in room 4",
+        "hash": "3359af930451531e8c532792e985903d8f478556be2c15997bffdfb189269fe2",
+        "notes": "this evidence are much important fot this case"
+    }
+]

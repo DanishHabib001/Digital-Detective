@@ -1,0 +1,47 @@
+============================================================
+                 DIGITAL DETECTIVE
+              INVESTIGATION REPORT
+============================================================
+
+CASE INFORMATION
+------------------------------------------------------------
+Case ID       : 2
+Title         : hjgku
+Description   : hyjuft
+Case Type     : ui
+Location      : jhuf
+Status        : OPEN
+Priority      : MEDIUM
+Created At    : 2026-08-16 17:24:27
+
+SUSPECTS
+------------------------------------------------------------
+No suspects recorded.
+
+EVIDENCE
+------------------------------------------------------------
+No evidence recorded.
+
+CLUES
+------------------------------------------------------------
+No clues recorded.
+
+WITNESSES
+------------------------------------------------------------
+No witnesses recorded.
+
+INVESTIGATION NOTES
+------------------------------------------------------------
+No investigation notes recorded.
+
+CASE STATISTICS
+------------------------------------------------------------
+Total Suspects  : 0
+Total Evidence  : 0
+Total Clues     : 0
+Total Witnesses : 0
+Total Notes     : 0
+
+============================================================
+              END OF INVESTIGATION REPORT
+============================================================

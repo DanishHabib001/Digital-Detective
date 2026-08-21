@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "title": "murder",
+        "description": "the person kill by unknown person",
+        "type": "Killing",
+        "location": "6th road",
+        "created_at": "2026-08-14 16:34:41",
+        "status": "OPEN",
+        "priority": "HIGH"
+    },
+    {
+        "id": "hahha",
+        "title": "hvjkgi",
+        "description": "mhbkigiyg",
+        "type": "hjiuii",
+        "location": "jgkgif",
+        "created_at": "2026-08-14 16:47:08",
+        "status": "OPEN",
+        "priority": "MEDIUM"
+    },
+    {
+        "id": "2",
+        "title": "hjgku",
+        "description": "hyjuft",
+        "type": "ui",
+        "location": "jhuf",
+        "created_at": "2026-08-16 17:24:27",
+        "status": "OPEN",
+        "priority": "MEDIUM"
+    },
+    {
+        "id": "3",
+        "title": "hdksjf",
+        "description": "askjdbfhiu",
+        "type": "mdnfkhe",
+        "location": "kenkufh",
+        "created_at": "2026-08-21 15:33:38",
+        "status": "OPEN",
+        "priority": "HIGH"
+    }
+]
