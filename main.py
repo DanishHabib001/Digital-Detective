@@ -43,7 +43,7 @@ def green_line(length=60):
     print("\033[92m" + "-" * length + "\033[0m")
 
 def double_green_line(lenght=60):
-    ("\033[92m" + "=" * lenght + "\033[0m")
+    print("\033[92m" + "=" * lenght + "\033[0m")
 
 def case_management():
     while True:

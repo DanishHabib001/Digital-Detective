@@ -1,15 +1,1 @@
-[
-    {
-        "id": "1",
-        "case_id": "1",
-        "name": "haseeb",
-        "age": 23,
-        "gender": "male",
-        "occupation": "student",
-        "address": "7th road",
-        "risk_level": "HIGH",
-        "relationship": "unknomn",
-        "alibi": "video recording",
-        "notes": "available"
-    }
-]
+[]
